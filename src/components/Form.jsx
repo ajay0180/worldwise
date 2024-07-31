@@ -23,7 +23,7 @@ export function convertToEmoji(countryCode) {
 
 function Form() {
   const [lat, lng] = useUrlPosition();
-  console.log(lat, lng);
+  // console.log(lat, lng);
 
   const [isLoadingGeocoding, setIsLoadingGeoCoding] = useState(false);
   const [cityName, setCityName] = useState("");
@@ -48,7 +48,7 @@ function Form() {
             `${BASE_URL}?latitude=${lat}&longitude=${lng}`
           );
           const data = await res.json();
-          console.log(data);
+          // console.log(data);
 
           if (!data.countryCode)
             throw new Error(

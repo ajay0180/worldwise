@@ -1,87 +1,39 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
+      "id": "3163",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-31T09:31:27.397Z",
+      "notes": "12345678",
       "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": "73930385"
+        "lat": "40.02840311521536",
+        "lng": "-0.045146942138671875"
+      }
     },
     {
+      "id": "46e5",
+      "cityName": "Borriol",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-31T09:31:33.491Z",
+      "notes": "w23e2fe",
+      "position": {
+        "lat": "40.05140220395894",
+        "lng": "-0.07673263549804689"
+      }
+    },
+    {
+      "id": "9fd2",
       "cityName": "Madrid",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "date": "2024-07-31T09:31:54.341Z",
+      "notes": "1234567890",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": "17806751"
-    },
-    {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": "98443197"
-    },
-    {
-      "id": "603e",
-      "cityName": "Castello de la Plana",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-07-30T15:08:31.096Z",
-      "notes": "ncwdcd",
-      "position": {
-        "lat": "39.98816892596955",
-        "lng": "-0.03828048706054688"
-      }
-    },
-    {
-      "id": "01d8",
-      "cityName": "Castello de la Plana",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-07-30T15:28:04.097Z",
-      "notes": "dsqfwfw",
-      "position": {
-        "lat": "40.01499435375048",
-        "lng": "-0.029525756835937503"
-      }
-    },
-    {
-      "id": "42b9",
-      "cityName": "Castello de la Plana",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-07-30T15:32:42.641Z",
-      "notes": "siqhsixq",
-      "position": {
-        "lat": "40.03471220877633",
-        "lng": "-0.023174285888671875"
-      }
-    },
-    {
-      "id": "f314",
-      "cityName": "Borril",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-07-30T15:33:51.954Z",
-      "notes": "gjhhjb",
-      "position": {
-        "lat": "40.056001090767424",
-        "lng": "-0.04978179931640626"
+        "lat": "40.396764305572056",
+        "lng": "-3.7573242187500004"
       }
     }
   ]
